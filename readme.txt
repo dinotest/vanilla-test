@@ -1,4 +1,3 @@
-test
-test2
+This is just a test for the future host Vanilla 2 and Garden. 
 
-test3
+You can find Vanilla at http://getvanilla.com/
