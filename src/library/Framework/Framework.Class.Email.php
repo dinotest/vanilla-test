@@ -96,7 +96,9 @@ class Email {
 
 	function Clear() {
 		$this->Name = "Email";
-		$this->ClearRecipients();
+		$this->Recipients = array();
+		$this->CCRecipients = array();
+		$this->BCCRecipients = array();
 		$this->FromName = "";
 		$this->FromEmail = "";
 		$this->Subject = "";
